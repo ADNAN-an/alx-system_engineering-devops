@@ -14,4 +14,4 @@ Script that prints the type of the file named iamafile. The file iamafile will b
 Script that creates a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory
 Script that copies HTML files
 Script that moves all files beginning with an uppercase letter to the directory /tmp/u
-
+Script that deletes all files in the current working directory that end with the character ~
