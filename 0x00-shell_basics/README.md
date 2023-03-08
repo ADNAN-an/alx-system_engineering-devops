@@ -4,3 +4,4 @@ Script that changes the working directory to the user’s home directory
 Script that displays current directory contents in a long format
 Script that displays current directory contents, including hidden files (starting with .)
 Script that displays all files + user anf group ID
+Script that creates a directory named my_first_directory in the /tmp/ directory
